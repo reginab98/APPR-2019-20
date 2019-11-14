@@ -1,6 +1,7 @@
 # Analiza podatkov s programom R, 2019/20
 
 cghdgfh
+hkhjkhkjkj
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
