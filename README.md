@@ -1,10 +1,45 @@
 # Analiza potovanj prebivalcev Slovenije
 
-# Analiza podatkov s programom R, 2019/20
+## Osnovna ideja
+Analizirala bom potovanja prebivalcev Slovenije. Preučevala bom vzroke za odhod oziroma neodhod na pot, kdo potuje(starost, izobrazba, finančno stanje) in s kom, vrste potovanj in izdatki za potovanja.
+Nekoliko bolj se bom osredotočila na potovanja z letali. Zanimale me bodo destinacije in pa kakšen delež prebivalstva Slovenije potuje z letali v primerjavi z drugimi državami sveta.
 
-cghdgfh
-hkhjkhkjkj
-fgdfgdfg
+## Opis podatkovnih virov
+Podatke bom iskala na dveh spletnik straneh:
+* SURS
+Podatki so na voljo v CSV, XML, JSON, PX obliki.
+
+* gapminder
+Podatki so na voljo v CSV in XLSX obliki.
+
+## Zasnova podatkovnega modela
+
+Podatki (SURS):
+* enodnevni izleti(povprečni izdatki, struktura izdatkov, vrsta izleta, država izleta)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__35_21703_enodnevni_izleti_cetrt/?tablelist=true
+
+* razlogi za neodhod(spol, starost, izobrazba, zaposlitveni status, velikost gospodinjstva, mesečni neto dohodek, stopnja urbanizacije)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__15_21699_razlogi_neodhod_cetrt/?tablelist=true
+
+* značilnosti potovanj(občine, glavni razlog za potovanje, destinacija in cilj, udeleženost otrok)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__25_21701_znacilnosti_cetrt/?tablelist=true
+
+* udeleženost prebivalcev na turističnih potovanjih(spol, starost, izobrazba, zaposlitveni status, velikost gospodinjstva, mesečni neto dohodek, stopnja urbanizacije)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__05_21697_udelezenost_cetrt/?tablelist=true
+
+* letališki potniški glede na prihod/odhod letal ter redne/posebne prevoze po državah prihoda/odhoda letal (Ljubljana, Letališče Jožeta Pučnika)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__22_transport__05_22219_zracni_transport/2221901s.px/
+
+Podatki (gapminder):
+https://www.gapminder.org/data/
+* število letalskih potnikov po državah sveta
+* število prebivalcev po državah sveta
+(da bom lahko izračunala delež potujočih)
+
+## Plan dela
+Uvoz podatkov, odstranitev podatkov, ki jih ne bom analizirala, analiza podatkov in prikaz rezultatov. 
+
+# Analiza podatkov s programom R, 2019/20
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
