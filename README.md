@@ -6,10 +6,11 @@ Nekoliko bolj se bom osredotočila na potovanja z letali. Zanimale me bodo desti
 
 ## Opis podatkovnih virov
 Podatke bom iskala na dveh spletnik straneh:
-SURS:
+
+* SURS:
 Podatki so na voljo v CSV, XML, JSON, PX obliki.
 
-gapminder:
+* gapminder:
 Podatki so na voljo v CSV in XLSX obliki.
 
 ## Zasnova podatkovnega modela
