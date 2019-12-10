@@ -19,7 +19,7 @@ Podatki (SURS):
 
 * razlogi za neodhod(6 razlogov, skupaj, 2012-2018)
 
--po starosti: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170002S.px/
+- po starosti: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170002S.px/
 
 - po izobrazbi:
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170003S.px/
