@@ -27,8 +27,9 @@ https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo
 - po zaposlitvenem statusu:
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170004S.px/
 
-* letališki potniški glede na prihod/odhod letal ter redne/posebne prevoze po državah prihoda/odhoda letal (Ljubljana, Letališče Jožeta Pučnika)
-https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__22_transport__05_22219_zracni_transport/2221901s.px/
+* glavno prevozno sredstvo: (5 prevoznih sredstev, 2012-2018):
+(primerjava št. potovanj, povprečno št. prenočitev, izdatkov na noč)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__30_21702_znacilnosti_letno/2170205S.px/
 
 Podatki (gapminder): (od 1991 naprej, saj bom primerjala Slovenijo s svetom)
 https://www.gapminder.org/data/
