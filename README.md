@@ -5,7 +5,7 @@ Analizirala bom potovanja prebivalcev Slovenije. Preučevala bom vzroke za odhod
 Nekoliko bolj se bom osredotočila na potovanja z letali. Zanimale me bodo destinacije in pa kakšen delež prebivalstva Slovenije potuje z letali v primerjavi z drugimi državami sveta.
 
 ## Opis podatkovnih virov
-Podatke bom iskala na dveh spletnik straneh:
+Podatke bom iskala na dveh spletnih straneh:
 
 * SURS:
 Podatki so na voljo v CSV, XML, JSON, PX obliki.
@@ -16,25 +16,24 @@ Podatki so na voljo v CSV in XLSX obliki.
 ## Zasnova podatkovnega modela
 
 Podatki (SURS):
-* enodnevni izleti(povprečni izdatki, struktura izdatkov, vrsta izleta, država izleta)
-https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__35_21703_enodnevni_izleti_cetrt/?tablelist=true
 
-* razlogi za neodhod(spol, starost, izobrazba, zaposlitveni status, velikost gospodinjstva, mesečni neto dohodek, stopnja urbanizacije)
-https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__15_21699_razlogi_neodhod_cetrt/?tablelist=true
+* razlogi za neodhod(6 razlogov, skupaj, 2012-2018)
 
-* značilnosti potovanj(občine, glavni razlog za potovanje, destinacija in cilj, udeleženost otrok)
-https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__25_21701_znacilnosti_cetrt/?tablelist=true
+-po starosti: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170002S.px/
 
-* udeleženost prebivalcev na turističnih potovanjih(spol, starost, izobrazba, zaposlitveni status, velikost gospodinjstva, mesečni neto dohodek, stopnja urbanizacije)
-https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__05_21697_udelezenost_cetrt/?tablelist=true
+- po izobrazbi:
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170003S.px/
+
+- po zaposlitvenem statusu:
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__21_gostinstvo_turizem__06_potovanja__20_21700_razlogi_neodhod_letno/2170004S.px/
 
 * letališki potniški glede na prihod/odhod letal ter redne/posebne prevoze po državah prihoda/odhoda letal (Ljubljana, Letališče Jožeta Pučnika)
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__22_transport__05_22219_zracni_transport/2221901s.px/
 
-Podatki (gapminder):
+Podatki (gapminder): (od 1991 naprej, saj bom primerjala Slovenijo s svetom)
 https://www.gapminder.org/data/
-* število letalskih potnikov po državah sveta
-* število prebivalcev po državah sveta
+* število letalskih potnikov po državah sveta (Air transport, passengers carried)
+* število prebivalcev po državah sveta (Population, total)
 (da bom lahko izračunala delež potujočih)
 
 ## Plan dela
