@@ -1,5 +1,5 @@
 # Analiza potovanj prebivalcev Slovenije
-
+TEST
 ## Osnovna ideja
 Analizirala bom potovanja prebivalcev Slovenije. Preučevala bom vzroke za odhod oziroma neodhod na pot, kdo potuje(starost, izobrazba, finančno stanje) in s kom, vrste potovanj in izdatke za potovanja.
 Nekoliko bolj se bom osredotočila na potovanja z letali. Zanimale me bodo destinacije in pa kakšen delež prebivalstva Slovenije potuje z letali v primerjavi z drugimi državami sveta.
