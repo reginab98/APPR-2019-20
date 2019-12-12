@@ -8,4 +8,6 @@ library(rvest)
 library(gsubfn)
 library(tidyr)
 library(shiny)
+library(readr)
 
+podatki <- read_csv("potniki.csv")
