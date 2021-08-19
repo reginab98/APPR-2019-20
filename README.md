@@ -1,4 +1,4 @@
-# Analiza potovanj prebivalcev Slovenije
+# Analiza potovanj iz Slovenije
 
 ## Osnovna ideja
 V projektni nalogi bom analizirala potovanja iz Slovenije. Osredotočila se bom na potovanja z letali. Pogledala bom, kako se skozi čas spreminja število potnikov na različne destinacije v zadnjih desetih letih. Podatke bom za nekaj let analizirala tudi na mesečni ravni in skušala najti kakšne podobnosti, kot na primer, v katerem mesecu so potovanja v določeno državo najpogostejša. Preučila bom tudi, ali imajo povprečne cene letalskih kart kakšen vpliv na število potnikov. Potovanja z letali iz Slovenije bom prikazala tudi na zemljevidu sveta.
