@@ -4,7 +4,7 @@
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/reginab98/APPR-2019-20/master?urlpath=rstudio) RStudio
 
 ## Osnovna ideja
-V projektni nalogi bom analizirala potovanja iz Slovenije. Osredotočila se bom na potovanja z letali. Pogledala bom, kako se skozi čas spreminja število potnikov na različne destinacije v zadnjih desetih letih. Podatke bom za nekaj let analizirala tudi na mesečni ravni in skušala najti kakšne podobnosti, kot na primer, v katerem mesecu so potovanja v določeno državo najpogostejša. Preučila bom tudi, ali imajo povprečne cene letalskih kart kakšen vpliv na število potnikov. Potovanja z letali iz Slovenije bom prikazala tudi na zemljevidu sveta.
+V projektni nalogi bom analizirala potovanja iz Slovenije. Osredotočila se bom na potovanja z letali. Uporabila bom podatke letov iz slovenskih letališč v tujino. Zavedam se, da to ni vedno podatek o končni destinaciji potovanja, saj potniki pogosto odletijo najprej do kakšnega večjega letališča v Evropi in nato naprej. Pogledala bom, kako se skozi čas spreminja število potnikov na različne destinacije v zadnjih desetih letih. Podatke bom za nekaj let analizirala tudi na mesečni ravni in skušala najti kakšne podobnosti, kot na primer, v katerem mesecu so potovanja v določeno državo najpogostejša. Preučila bom tudi, ali imajo povprečne cene letalskih kart kakšen vpliv na število potnikov. Potovanja z letali iz Slovenije bom prikazala tudi na zemljevidu sveta.
 
 ## Opis podatkovnih virov
 Podatke bom poiskala na dveh spletnih straneh:
